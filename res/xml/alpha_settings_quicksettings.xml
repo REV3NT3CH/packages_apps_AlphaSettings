@@ -39,7 +39,7 @@
             android:max="800"
             settings:min="110"
             settings:interval="5"
-            android:defaultValue="110" />
+            android:defaultValue="160" />
 
         <!-- QS clock 
         <com.alpha.settings.preferences.SystemSettingSwitchPreference
